@@ -22,4 +22,3 @@ Just move your mouse around! (Requires a friend for full effect)
 </p>
 <img width="200px" src="https://i.gyazo.com/397267e0599ed9085696e4d0e6e43499.gif" alt="https://gyazo.com/397267e0599ed9085696e4d0e6e43499" />
 
-You can also navigate to <a href="http://samdelong.com/p5js_example">http://samdelong.com/p5js_example</a> to check it out
