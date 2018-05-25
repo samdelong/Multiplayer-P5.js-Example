@@ -68,7 +68,7 @@ io.on("connection", (socket) => {
     });
 });
 
-// sends each client its current sequence number
+// sends all of the users the mouse positions of the users...
 setInterval(() => {
 
   io.sockets.emit("users",users);
