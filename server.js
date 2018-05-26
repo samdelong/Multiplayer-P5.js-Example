@@ -62,6 +62,8 @@ io.on("connection", (socket) => {
           temp[id] = users[id];
         }
       }
+      
+       //Set users array to temporary array, which doesn't have the disconnected user
       users = temp;
       console.log(`Someone disconnected... ${socket.id}`);
 
